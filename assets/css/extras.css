@@ -8,4 +8,9 @@
 		width: 115px;
 		height: auto;
 	}
+
+	.footer .logo {
+		width: 100%;
+		height: auto;
+	}
 }
