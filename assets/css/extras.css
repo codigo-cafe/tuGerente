@@ -1,0 +1,11 @@
+.navbar-brand .logo, .footer .logo {
+	width: 150px;
+	height: auto;
+}
+
+@media (max-width: 575px){
+	.navbar-brand .logo {
+		width: 115px;
+		height: auto;
+	}
+}
